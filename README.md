@@ -1478,12 +1478,8 @@ else
 fi
 ```
 ## OUTPUT 
-Enter the number
- 121
- Number is palindrome
- Enter the number
- 69
- Number is NOT palindrome
+![image](https://github.com/user-attachments/assets/b45e3277-cd9c-4cf5-8410-329265b573cb)
+
 # RESULT:
 The Commands are executed successfully.
 
